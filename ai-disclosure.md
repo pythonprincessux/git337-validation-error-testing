@@ -1,0 +1,3 @@
+## AI Disclosure
+
+For this assignment, I used ChatGPT for AI-assisted support to help identify validation constraints from the provided business rules, suggest fictional boundary test values and email addresses,  explain HTML validation attributes and form states, and help me with troubleshooting and testing steps. I made all of the edits in VS Code and performed each browser, keyboard, boundary value, accessibility, and responsive, and zoom test myself. I also performed the empty submit testing.I recorded the observed results from my own testing. I also used ChatGPT for matrix format suggestions such as chart layout or just plain notes. I recorded all notes from testing and constraints as permitted.
